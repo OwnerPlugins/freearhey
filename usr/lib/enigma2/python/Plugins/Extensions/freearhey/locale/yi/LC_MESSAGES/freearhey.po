@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:39+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Yiddish\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "צוריק"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "מאַזל - טאָוו! איר האָט שוין די לעצטע ווערסיע ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "צי איר ווילן צו ינסטאַלירן דערהייַנטיקן (%s) איצט?"
+
+msgid "Download Error"
+msgstr "אראפקאפיע טעות"
+
+msgid "Exit"
+msgstr "אַרויסגאַנג"
+
+msgid "Export"
+msgstr "עקספּאָרט"
+
+msgid "Please install SubSupport Plugins"
+msgstr "ביטע ינסטאַלירן סובסופּפּאָרט פּלוגינס"
+
+msgid "Search"
+msgstr "זוכן"
+
+msgid "Update Aborted!"
+msgstr "דערהייַנטיקן אַבאָרטיד!"

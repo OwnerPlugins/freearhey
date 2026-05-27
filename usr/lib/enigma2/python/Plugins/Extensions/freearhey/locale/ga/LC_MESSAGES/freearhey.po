@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+msgid "Back"
+msgstr "Ar ais"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Comhghairdeachas! Tá an leagan is déanaí agat cheana féin..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ar mhaith leat nuashonrú ( % s ) a shuiteáil anois?"
+
+msgid "Download Error"
+msgstr "Earráid íoslódáil"
+
+msgid "Exit"
+msgstr "Scoir"
+
+msgid "Export"
+msgstr "Easpórtáil"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Suiteáil Forlíontáin Fo-thacaíocht"
+
+msgid "Search"
+msgstr "Cuardach"
+
+msgid "Update Aborted!"
+msgstr "Tobscoireadh an Nuashonrú!"

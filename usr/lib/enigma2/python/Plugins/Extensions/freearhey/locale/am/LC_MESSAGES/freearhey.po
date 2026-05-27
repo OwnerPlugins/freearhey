@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "ተመለስ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "እንኳን ደስ ያለህ! ቀደም ሲል የቅርብ ጊዜ ስሪት አለህ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ማሻሻያ (%s) አሁን መጫን ይፈልጋሉ?"
+
+msgid "Download Error"
+msgstr "የማውረድ ስህተት"
+
+msgid "Exit"
+msgstr "ውጣ"
+
+msgid "Export"
+msgstr "ወደ ውጪ ላክ"
+
+msgid "Please install SubSupport Plugins"
+msgstr "እባክዎን የድጋፍ ፕለጊኖችን ይጫኑ"
+
+msgid "Search"
+msgstr "ፈልግ"
+
+msgid "Update Aborted!"
+msgstr "ዝማኔ ተቋርጧል!"

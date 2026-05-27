@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Бозгашт"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Табрик! Шумо аллакай версияи охиринро доред..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Оё шумо мехоҳед навсозиро ( %s ) ҳозир насб кунед?"
+
+msgid "Download Error"
+msgstr "Хатои зеркашӣ"
+
+msgid "Exit"
+msgstr "Баромадгоҳ"
+
+msgid "Export"
+msgstr "Содирот"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Лутфан плагинҳои SubSupport насб кунед"
+
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+msgid "Update Aborted!"
+msgstr "Навсозӣ қатъ карда шуд!"

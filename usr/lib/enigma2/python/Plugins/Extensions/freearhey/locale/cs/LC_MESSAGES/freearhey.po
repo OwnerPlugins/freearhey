@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Back"
+msgstr "Zadní"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "gratuluji! Už máte nejnovější verzi..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Chcete nyní nainstalovat aktualizaci ( %s )?"
+
+msgid "Download Error"
+msgstr "Chyba stahování"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "Export"
+msgstr "Vývozní"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Nainstalujte si prosím SubSupport Plugins"
+
+msgid "Search"
+msgstr "Vyhledávání"
+
+msgid "Update Aborted!"
+msgstr ""

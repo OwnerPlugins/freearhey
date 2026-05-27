@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hebrew <heb-bugzap@hamakor.org.il>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "בְּחֲזָרָה"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "מזל טוב! כבר יש לך את הגרסה האחרונה..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "האם ברצונך להתקין עדכון ( %s ) כעת?"
+
+msgid "Download Error"
+msgstr "שגיאת הורדה"
+
+msgid "Exit"
+msgstr "יְצִיאָה"
+
+msgid "Export"
+msgstr "יְצוּא"
+
+msgid "Please install SubSupport Plugins"
+msgstr "אנא התקן את התוספים של SubSupport"
+
+msgid "Search"
+msgstr "לְחַפֵּשׂ"
+
+msgid "Update Aborted!"
+msgstr "העדכון בוטל!"

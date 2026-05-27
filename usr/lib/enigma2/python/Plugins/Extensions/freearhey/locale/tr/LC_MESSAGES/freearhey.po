@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:39+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Tebrikler! Zaten en son sürüme sahipsiniz..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Güncellemeyi ( %s ) şimdi yüklemek istiyor musunuz?"
+
+msgid "Download Error"
+msgstr "İndirme Hatası"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "Export"
+msgstr "İhracat"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Lütfen SubSupport Eklentilerini yükleyin"
+
+msgid "Search"
+msgstr "Aramak"
+
+msgid "Update Aborted!"
+msgstr "Güncelleme İptal Edildi!"

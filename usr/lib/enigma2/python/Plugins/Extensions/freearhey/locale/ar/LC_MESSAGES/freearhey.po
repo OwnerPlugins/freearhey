@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "هل تريد تثبيت التحديث ( %s ) الآن؟"
+
+msgid "Download Error"
+msgstr "خطأ في التنزيل"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "Export"
+msgstr "يصدّر"
+
+msgid "Please install SubSupport Plugins"
+msgstr "الرجاء تثبيت المكونات الإضافية للدعم الفرعي"
+
+msgid "Search"
+msgstr "يبحث"
+
+msgid "Update Aborted!"
+msgstr "تم إحباط التحديث!"

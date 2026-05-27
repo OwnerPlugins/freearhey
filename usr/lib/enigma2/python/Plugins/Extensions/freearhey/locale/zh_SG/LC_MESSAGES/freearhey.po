@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:40+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-SG\n"
+"Language: zh-SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "后退"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "恭喜！您已经拥有最新版本..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "您想立即安装更新 (%s) 吗？"
+
+msgid "Download Error"
+msgstr "下载错误"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Export"
+msgstr "出口"
+
+msgid "Please install SubSupport Plugins"
+msgstr "请安装 SubSupport 插件"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Update Aborted!"
+msgstr "更新中止！"

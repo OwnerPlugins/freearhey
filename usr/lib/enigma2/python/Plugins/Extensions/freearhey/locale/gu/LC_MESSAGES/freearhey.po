@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Gujarati\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "પાછળ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "અભિનંદન! તમારી પાસે પહેલેથી જ નવીનતમ સંસ્કરણ છે..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "શું તમે હમણાં અપડેટ (%s) ઇન્સ્ટોલ કરવા માંગો છો?"
+
+msgid "Download Error"
+msgstr "ડાઉનલોડ ભૂલ"
+
+msgid "Exit"
+msgstr "બહાર નીકળો"
+
+msgid "Export"
+msgstr "નિકાસ કરો"
+
+msgid "Please install SubSupport Plugins"
+msgstr "કૃપા કરીને સબસપોર્ટ પ્લગઇન્સ ઇન્સ્ટોલ કરો"
+
+msgid "Search"
+msgstr "શોધો"
+
+msgid "Update Aborted!"
+msgstr "અપડેટ રદ કર્યું!"

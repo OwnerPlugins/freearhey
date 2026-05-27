@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "ପଛକୁ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ଅଭିନନ୍ଦନ! ଆପଣଙ୍କ ପାଖରେ ସର୍ବଶେଷ ସଂସ୍କରଣ ଅଛି ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ଆପଣ ବର୍ତ୍ତମାନ ଅଦ୍ୟତନ (% s) ସଂସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Download Error"
+msgstr "ତ୍ରୁଟି ଡାଉନଲୋଡ୍ କରନ୍ତୁ |"
+
+msgid "Exit"
+msgstr "ପ୍ରସ୍ଥାନ"
+
+msgid "Export"
+msgstr "ରପ୍ତାନି କରନ୍ତୁ |"
+
+msgid "Please install SubSupport Plugins"
+msgstr "ଦୟାକରି ସବ୍ ସପୋର୍ଟ ପ୍ଲଗଇନ୍ ସଂସ୍ଥାପନ କରନ୍ତୁ |"
+
+msgid "Search"
+msgstr "ସନ୍ଧାନ କର |"
+
+msgid "Update Aborted!"
+msgstr "ପରିତ୍ୟାଗ କରାଯାଇଥିବା ଅଦ୍ୟତନ!"

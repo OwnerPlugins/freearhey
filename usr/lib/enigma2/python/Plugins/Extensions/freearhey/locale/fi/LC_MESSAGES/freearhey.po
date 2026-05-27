@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Onnittelut! Sinulla on jo uusin versio..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Haluatko asentaa päivityksen ( %s ) nyt?"
+
+msgid "Download Error"
+msgstr "Latausvirhe"
+
+msgid "Exit"
+msgstr "Poistu"
+
+msgid "Export"
+msgstr "Viedä"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Asenna SubSupport Plugins"
+
+msgid "Search"
+msgstr "Haku"
+
+msgid "Update Aborted!"
+msgstr "Päivitys keskeytetty!"

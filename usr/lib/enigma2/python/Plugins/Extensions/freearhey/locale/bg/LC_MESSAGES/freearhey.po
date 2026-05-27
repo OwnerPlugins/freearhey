@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "честито Вече имате най-новата версия..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Искате ли да инсталирате актуализация ( %s ) сега?"
+
+msgid "Download Error"
+msgstr "Грешка при изтегляне"
+
+msgid "Exit"
+msgstr "Изход"
+
+msgid "Export"
+msgstr "Експортиране"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Моля, инсталирайте SubSupport Plugins"
+
+msgid "Search"
+msgstr "Търсене"
+
+msgid "Update Aborted!"
+msgstr "Актуализацията е прекъсната!"

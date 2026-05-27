@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Til hamingju! Þú ert nú þegar með nýjustu útgáfuna..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Viltu setja upp uppfærslu ( %s ) núna?"
+
+msgid "Download Error"
+msgstr "Villa við niðurhal"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "Export"
+msgstr "Útflutningur"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Vinsamlegast settu upp SubSupport Plugins"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "Update Aborted!"
+msgstr "Uppfærsla hætt!"

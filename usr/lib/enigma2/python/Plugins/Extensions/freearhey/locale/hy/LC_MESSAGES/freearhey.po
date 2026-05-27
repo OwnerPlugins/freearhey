@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Ետ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Շնորհավորում եմ Դուք արդեն ունեք վերջին տարբերակը..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ցանկանու՞մ եք տեղադրել թարմացում ( %s ) հիմա:"
+
+msgid "Download Error"
+msgstr "Ներբեռնման սխալ"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Export"
+msgstr "Արտահանում"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Խնդրում ենք տեղադրել SubSupport Plugins"
+
+msgid "Search"
+msgstr "Որոնում"
+
+msgid "Update Aborted!"
+msgstr "Թարմացումը ընդհատվեց:"

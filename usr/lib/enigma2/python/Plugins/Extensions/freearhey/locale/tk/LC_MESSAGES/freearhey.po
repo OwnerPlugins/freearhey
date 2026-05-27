@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:39+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkmen\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Yzyna"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gutlaýarys! Sizde iň soňky wersiýa bar ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Indi täzelenme (% s) gurmak isleýärsiňizmi?"
+
+msgid "Download Error"
+msgstr "Roralňyşlyk"
+
+msgid "Exit"
+msgstr "Çyk"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Please install SubSupport Plugins"
+msgstr "SubSupport Pluginlerini gurmagyňyzy haýyş edýäris"
+
+msgid "Search"
+msgstr "Gözlemek"
+
+msgid "Update Aborted!"
+msgstr "Täzelenme ýatyryldy!"

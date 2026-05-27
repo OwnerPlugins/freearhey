@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "¡Felicitaciones! Ya tienes la última versión..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "¿Quieres instalar la actualización ( %s ) ahora?"
+
+msgid "Download Error"
+msgstr "Error de descarga"
+
+msgid "Exit"
+msgstr "Salida"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Instale los complementos de SubSupport"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Update Aborted!"
+msgstr "¡Actualización cancelada!"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Reen"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gratulon! Vi jam havas la lastan version..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ĉu vi volas instali ĝisdatigon ( %s ) nun?"
+
+msgid "Download Error"
+msgstr "Elŝuta Eraro"
+
+msgid "Exit"
+msgstr "Eliro"
+
+msgid "Export"
+msgstr "Eksporto"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Bonvolu instali SubSupport-kromaĵojn"
+
+msgid "Search"
+msgstr "Serĉu"
+
+msgid "Update Aborted!"
+msgstr "Ĝisdatigo interrompita!"

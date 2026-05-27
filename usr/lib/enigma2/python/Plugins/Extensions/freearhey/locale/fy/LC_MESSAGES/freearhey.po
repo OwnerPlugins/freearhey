@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Western Frisian\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Rêch"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Lokwinske! Jo hawwe de lêste ferzje al ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Wolle jo de fernijing ( %s ) no ynstallearje?"
+
+msgid "Download Error"
+msgstr "Download flater"
+
+msgid "Exit"
+msgstr "Útgong"
+
+msgid "Export"
+msgstr "Eksportearje"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Ynstallearje asjebleaft SubSupport Plugins"
+
+msgid "Search"
+msgstr "Sykje"
+
+msgid "Update Aborted!"
+msgstr "Update ôfbrutsen!"

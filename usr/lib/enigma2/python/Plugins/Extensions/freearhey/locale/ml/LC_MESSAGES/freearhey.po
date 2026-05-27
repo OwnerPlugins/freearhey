@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "തിരികെ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "അഭിനന്ദനങ്ങൾ! നിങ്ങൾക്ക് ഇതിനകം ഏറ്റവും പുതിയ പതിപ്പുണ്ട്..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "നിങ്ങൾക്ക് ഇപ്പോൾ അപ്ഡേറ്റ് (%s ) ഇൻസ്റ്റാൾ ചെയ്യണോ?"
+
+msgid "Download Error"
+msgstr "ഡൗൺലോഡ് പിശക്"
+
+msgid "Exit"
+msgstr "പുറത്ത്"
+
+msgid "Export"
+msgstr "കയറ്റുമതി"
+
+msgid "Please install SubSupport Plugins"
+msgstr "സബ്‌സപ്പോർട്ട് പ്ലഗിനുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+msgid "Search"
+msgstr "തിരയുക"
+
+msgid "Update Aborted!"
+msgstr "അപ്ഡേറ്റ് നിർത്തലാക്കി!"

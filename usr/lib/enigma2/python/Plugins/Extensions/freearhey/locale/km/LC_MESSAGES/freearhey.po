@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Central Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "ត្រឡប់មកវិញ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "អបអរសាទរ! អ្នកមានកំណែចុងក្រោយបង្អស់..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "តើអ្នកចង់ដំឡើងអាប់ដេត (%s) ឥឡូវនេះទេ?"
+
+msgid "Download Error"
+msgstr "កំហុសក្នុងការទាញយក"
+
+msgid "Exit"
+msgstr "ចេញ"
+
+msgid "Export"
+msgstr "នាំចេញ"
+
+msgid "Please install SubSupport Plugins"
+msgstr "សូមដំឡើងកម្មវិធីជំនួយ SubSupport"
+
+msgid "Search"
+msgstr "ស្វែងរក"
+
+msgid "Update Aborted!"
+msgstr "ការអាប់ដេតត្រូវបានលុបចោល!"

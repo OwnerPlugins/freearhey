@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Enrere"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitats! Ja tens la darrera versió..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Voleu instal·lar l'actualització ( %s ) ara?"
+
+msgid "Download Error"
+msgstr "Error de descàrrega"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Export"
+msgstr "Exporta"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Instal·leu els connectors de SubSupport"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Update Aborted!"
+msgstr "Actualització avortada!"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Rug"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gefeliciteerd! Je beschikt al over de nieuwste versie..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Wilt u update ( %s ) nu installeren?"
+
+msgid "Download Error"
+msgstr "Downloadfout"
+
+msgid "Exit"
+msgstr "Uitgang"
+
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Installeer SubSupport-plug-ins"
+
+msgid "Search"
+msgstr "Zoekopdracht"
+
+msgid "Update Aborted!"
+msgstr "Update afgebroken!"

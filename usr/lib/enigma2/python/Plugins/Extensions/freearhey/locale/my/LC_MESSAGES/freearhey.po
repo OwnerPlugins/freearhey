@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "ကျော"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ဂုဏ်ပြုပါသည်။ သင့်တွင် နောက်ဆုံးထွက်ဗားရှင်းရှိနေပြီဖြစ်သည်။"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "အပ်ဒိတ် (%s) ကို ယခု ထည့်သွင်းလိုပါသလား။"
+
+msgid "Download Error"
+msgstr "ဒေါင်းလုဒ်အမှား"
+
+msgid "Exit"
+msgstr "ထွက်ပေါက်"
+
+msgid "Export"
+msgstr "တင်ပို့ခြင်း။"
+
+msgid "Please install SubSupport Plugins"
+msgstr "ကျေးဇူးပြု၍ SubSupport Plugins ကို ထည့်သွင်းပါ။"
+
+msgid "Search"
+msgstr "ရှာရန်"
+
+msgid "Update Aborted!"
+msgstr "အပ်ဒိတ်ကို ဖျက်သိမ်းလိုက်ပါပြီ။"

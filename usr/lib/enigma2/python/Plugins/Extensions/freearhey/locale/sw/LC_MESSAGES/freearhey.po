@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <(nothing)>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Nyuma"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Hongera! Tayari una toleo jipya zaidi..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Je, ungependa kusakinisha sasisho ( %s ) sasa?"
+
+msgid "Download Error"
+msgstr "Hitilafu ya Upakuaji"
+
+msgid "Exit"
+msgstr "Utgång"
+
+msgid "Export"
+msgstr "Hamisha"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Tafadhali sakinisha Programu-jalizi za SubSupport"
+
+msgid "Search"
+msgstr "Tafuta"
+
+msgid "Update Aborted!"
+msgstr "Usasishaji Umeghairiwa!"

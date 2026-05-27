@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "पीछे"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "बधाई! आपके पास पहले से ही नवीनतम संस्करण है..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "क्या आप अभी अपडेट ( %s ) इंस्टॉल करना चाहते हैं?"
+
+msgid "Download Error"
+msgstr "डाउनलोड त्रुटि"
+
+msgid "Exit"
+msgstr "बाहर निकलना"
+
+msgid "Export"
+msgstr "निर्यात"
+
+msgid "Please install SubSupport Plugins"
+msgstr "कृपया सबसपोर्ट प्लगइन्स इंस्टॉल करें"
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "Update Aborted!"
+msgstr "अद्यतन निरस्त किया गया!"

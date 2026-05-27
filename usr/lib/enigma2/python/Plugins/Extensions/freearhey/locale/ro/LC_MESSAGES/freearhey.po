@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "Back"
+msgstr "Spate"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitari! Ai deja cea mai recentă versiune..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Doriți să instalați actualizarea ( %s ) acum?"
+
+msgid "Download Error"
+msgstr "Eroare de descărcare"
+
+msgid "Exit"
+msgstr "Ieșire"
+
+msgid "Export"
+msgstr ""
+
+msgid "Please install SubSupport Plugins"
+msgstr "Vă rugăm să instalați pluginurile SubSupport"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Update Aborted!"
+msgstr "Actualizare a fost anulată!"

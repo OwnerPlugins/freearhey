@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Air ais"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Mealaibh ur naidheachd! Tha an tionndadh as ùire agad mu thràth ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "A bheil thu airson ùrachadh ( %s ) a stàladh an-dràsta?"
+
+msgid "Download Error"
+msgstr "Luchdaich sìos mearachd"
+
+msgid "Exit"
+msgstr "Ar-a-mach"
+
+msgid "Export"
+msgstr "Às-mhalairt"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Feuch an stàlaich thu plugan SubSupport"
+
+msgid "Search"
+msgstr "Rannsaich"
+
+msgid "Update Aborted!"
+msgstr "Ùrachadh air a sguireadh!"

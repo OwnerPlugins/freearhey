@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Geluk! Jy het reeds die nuutste weergawe..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Wil jy opdatering ( %s ) nou installeer?"
+
+msgid "Download Error"
+msgstr "Aflaai Fout"
+
+msgid "Exit"
+msgstr "Verlaat"
+
+msgid "Export"
+msgstr "Uitvoer"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Installeer asseblief SubSupport Plugins"
+
+msgid "Search"
+msgstr "Soek"
+
+msgid "Update Aborted!"
+msgstr "Opdatering afgelas!"

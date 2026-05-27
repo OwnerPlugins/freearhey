@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Selamat! Anda sudah memiliki versi terbaru..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Apakah Anda ingin menginstal pembaruan ( %s ) sekarang?"
+
+msgid "Download Error"
+msgstr "Kesalahan Pengunduhan"
+
+msgid "Exit"
+msgstr "KELUAR"
+
+msgid "Export"
+msgstr "Ekspor"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Silakan instal Plugin SubSupport"
+
+msgid "Search"
+msgstr "Mencari"
+
+msgid "Update Aborted!"
+msgstr "Pembaruan Dibatalkan!"

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:39+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tatar\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Кире"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Котлыйбыз! Сезнең соңгы версиягез бар ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Сез хәзер яңарту (% s) урнаштырырга телисезме?"
+
+msgid "Download Error"
+msgstr "Йөкләү хата"
+
+msgid "Exit"
+msgstr "Чык"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Зинһар, SubSupport Плагиннарын урнаштырыгыз"
+
+msgid "Search"
+msgstr "Эзләү"
+
+msgid "Update Aborted!"
+msgstr "Яңартылган!"

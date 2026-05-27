@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bosnian <mtodorov@alu.hr>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Nazad"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Congrats! Već imate najnoviju verziju..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Želite li sada instalirati ažuriranje ( %s )?"
+
+msgid "Download Error"
+msgstr "Greška pri preuzimanju"
+
+msgid "Exit"
+msgstr "Izađi"
+
+msgid "Export"
+msgstr "Izvoz"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Molimo instalirajte SubSupport Plugins"
+
+msgid "Search"
+msgstr "Traži"
+
+msgid "Update Aborted!"
+msgstr "Ažuriranje je prekinuto!"

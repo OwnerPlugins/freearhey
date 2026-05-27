@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Norwegian\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gratulerer! Du har allerede den nyeste versjonen..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vil du installere oppdatering ( %s ) nå?"
+
+msgid "Download Error"
+msgstr "Last ned feil"
+
+msgid "Exit"
+msgstr "Gå"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Installer SubSupport Plugins"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Update Aborted!"
+msgstr "Oppdatering avbrutt!"

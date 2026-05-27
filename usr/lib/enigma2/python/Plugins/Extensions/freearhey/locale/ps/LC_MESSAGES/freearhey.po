@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "شاته"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "مبارک شه! تاسو لا دمخه وروستۍ نسخه لرئ ..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ایا تاسو غواړئ اوسمهال (%s) نصب کړئ؟"
+
+msgid "Download Error"
+msgstr "د کښته کولو تېروتنه"
+
+msgid "Exit"
+msgstr "وتل"
+
+msgid "Export"
+msgstr "صادرول"
+
+msgid "Please install SubSupport Plugins"
+msgstr "مهرباني وکړئ د SubSupport Plugins نصب کړئ"
+
+msgid "Search"
+msgstr "لټون"
+
+msgid "Update Aborted!"
+msgstr "تازه کول لغوه شوي!"

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "belakang"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "tahniah! Anda sudah mempunyai versi terkini..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Adakah anda mahu memasang kemas kini ( %s ) sekarang?"
+
+msgid "Download Error"
+msgstr "Ralat Muat Turun"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Sila pasang Pemalam SubSokongan"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Update Aborted!"
+msgstr "Kemas Kini Dibatalkan!"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Back"
+msgstr "Späť"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "gratulujem! Už máte najnovšiu verziu..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Chcete teraz nainštalovať aktualizáciu ( %s )?"
+
+msgid "Download Error"
+msgstr "Chyba sťahovania"
+
+msgid "Exit"
+msgstr "VÝCHOD"
+
+msgid "Export"
+msgstr "Exportovať"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Nainštalujte si doplnky SubSupport"
+
+msgid "Search"
+msgstr "Hľadať"
+
+msgid "Update Aborted!"
+msgstr "Aktualizácia prerušená!"

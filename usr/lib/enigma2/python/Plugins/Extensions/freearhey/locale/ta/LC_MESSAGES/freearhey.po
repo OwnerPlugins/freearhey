@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "மீண்டும்"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "வாழ்த்துக்கள்! உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "புதுப்பிப்பை (%s) இப்போது நிறுவ விரும்புகிறீர்களா?"
+
+msgid "Download Error"
+msgstr "பதிவிறக்கப் பிழை"
+
+msgid "Exit"
+msgstr "வெளியேறு"
+
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+msgid "Please install SubSupport Plugins"
+msgstr "துணை ஆதரவு செருகுநிரல்களை நிறுவவும்"
+
+msgid "Search"
+msgstr "தேடு"
+
+msgid "Update Aborted!"
+msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"

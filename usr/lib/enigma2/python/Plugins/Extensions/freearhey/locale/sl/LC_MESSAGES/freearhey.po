@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "Back"
+msgstr "Nazaj"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "čestitke Najnovejšo različico že imate..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ali želite zdaj namestiti posodobitev ( %s )?"
+
+msgid "Download Error"
+msgstr "Napaka pri prenosu"
+
+msgid "Exit"
+msgstr "Izhod"
+
+msgid "Export"
+msgstr "Izvozi"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Namestite vtičnike SubSupport"
+
+msgid "Search"
+msgstr "Iskanje"
+
+msgid "Update Aborted!"
+msgstr "Posodobitev prekinjena!"

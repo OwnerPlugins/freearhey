@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Back"
+msgstr "Tagasi"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Õnnitlused! Teil on juba uusim versioon..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Kas soovite värskenduse ( %s ) kohe installida?"
+
+msgid "Download Error"
+msgstr "Allalaadimisviga"
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "Export"
+msgstr "Ekspordi"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Installige SubSupport Plugins"
+
+msgid "Search"
+msgstr "Otsi"
+
+msgid "Update Aborted!"
+msgstr "Värskendus katkestatud!"

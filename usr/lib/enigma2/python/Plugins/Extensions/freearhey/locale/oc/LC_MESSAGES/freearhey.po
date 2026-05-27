@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Occitan\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "Arrièr"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitacions! Avètz ja la darrièra version..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Volètz installar la mesa a jorn ( %s ) ara ?"
+
+msgid "Download Error"
+msgstr "Error de telecargament"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Mercés d'installar los ensambladors de sossupòrt"
+
+msgid "Search"
+msgstr "Cercar"
+
+msgid "Update Aborted!"
+msgstr "Mesa a jorn avortada!"

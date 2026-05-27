@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Galician <proxecto@trasno.gal>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Back"
+msgstr "De volta"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Parabéns! Xa tes a última versión..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Queres instalar a actualización ( %s ) agora?"
+
+msgid "Download Error"
+msgstr "Erro de descarga"
+
+msgid "Exit"
+msgstr "Saír"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Instala os complementos de SubSupport"
+
+msgid "Search"
+msgstr "Busca"
+
+msgid "Update Aborted!"
+msgstr "Actualización abortada!"

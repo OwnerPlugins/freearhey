@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "Back"
+msgstr "Atpakaļ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vai vēlaties instalēt atjauninājumu ( %s ) tūlīt?"
+
+msgid "Download Error"
+msgstr "Lejupielādes kļūda"
+
+msgid "Exit"
+msgstr "Iziet"
+
+msgid "Export"
+msgstr "Eksportēt"
+
+msgid "Please install SubSupport Plugins"
+msgstr "Lūdzu, instalējiet SubSupport Plugins"
+
+msgid "Search"
+msgstr "Meklēt"
+
+msgid "Update Aborted!"
+msgstr "Atjaunināšana pārtraukta!"
