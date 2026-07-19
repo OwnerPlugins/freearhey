@@ -51,7 +51,7 @@ from .lib.Console import Console as xConsole
 
 # 30/08/2023 update
 # ######################################################################
-#   Enigma2 plugin Freearhey is coded by Lululla and Pcd               #
+#   Enigma2 plugin Freearhey is coded by Lululla                       #
 #   This is free software; you can redistribute it and/or modify it.   #
 #   But no delete this message & support on forum linuxsat-support     #
 # ######################################################################
@@ -107,7 +107,7 @@ if not isdir(config.movielist.last_videodir.value):
 dowm3u = config.movielist.last_videodir.value
 screenwidth = getDesktop(0).size()
 if screenwidth.width() == 2560:
-    skin_path = res_plugin_path + '/uhd'
+    skin_path = res_plugin_path + '/wqhd'
 elif screenwidth.width() == 1920:
     skin_path = res_plugin_path + '/fhd'
 else:
@@ -185,9 +185,8 @@ class free2list(MenuList):
 def show_(name, link):
     res = [(name, link)]
     png = pngassign(name)
-    png_loaded = loadPNG(png)  # Evita caricamenti ripetuti
+    png_loaded = loadPNG(png)
 
-    # Fallback a 1280 se screenwidth non è definito
     width = screenwidth.width() if screenwidth else 1280
 
     if width == 2560:
@@ -372,8 +371,6 @@ class freearhey(Screen):
         self.new_changelog = remote_changelog
         if __version__ < remote_version:
             self.Update = True
-            # self['key_yellow'].show()
-            # self['key_green'].show()
             self.session.open(
                 MessageBox,
                 _('New version %s is available\n\nChangelog: %s\n\nPress info_long or yellow_long button to start force updating.') %
@@ -381,7 +378,6 @@ class freearhey(Screen):
                  self.new_changelog),
                 MessageBox.TYPE_INFO,
                 timeout=5)
-        # self.update_me()
 
     def update_me(self):
         if self.Update is True:
@@ -471,10 +467,6 @@ class freearhey(Screen):
             namex = "Directy"
             lnk = Utils.b64decoder(host22)
             self.session.open(selectplay3, namex, lnk)
-        # elif sel == ("PLAYLISTS NSFW"):
-            # namex = "Nsfw"
-            # lnk = Utils.b64decoder(host33)
-            # self.session.open(selectplay3, namex, lnk)
         elif sel == ("PLAYLISTS BY CATEGORY"):
             namex = "Category"
             self.session.open(main23, namex, lnk)
@@ -979,7 +971,6 @@ class selectplay3(Screen):
                         print("Error: %s." % e)
                 regexcat = '#EXTINF.*?title="(.+?)".*?,(.+?)\\n(.+?)\\n'
                 match = re.compile(regexcat, re.DOTALL).findall(content)
-                # print("In showContent match =", match)
                 for country, name, url in match:
                     if ".m3u8" not in url:
                         continue
@@ -992,8 +983,6 @@ class selectplay3(Screen):
                         '')
                     name = name.replace('\r', '')
                     name = country + ' | ' + name
-                    # print("In showContent name =", name)
-                    # print("In showContent url =", url)
                     item = name + "###" + url + '\n'
                     items.append(item)
                 items.sort()
@@ -1217,7 +1206,6 @@ class Playstream2(
         self.itemscount = len(menu_list)
         self.list = menu_list
         streaml = False
-        # Initialize multiple base classes
         base_classes = [
             InfoBarBase,
             InfoBarMenu,
@@ -1272,10 +1260,8 @@ class Playstream2(
         )
 
         if '8088' in str(self.url):
-            # self.onLayoutFinish.append(self.slinkPlay)
             self.onFirstExecBegin.append(self.slinkPlay)
         else:
-            # self.onLayoutFinish.append(self.cicleStreamType)
             self.onFirstExecBegin.append(self.cicleStreamType)
         self.onClose.append(self.cancel)
 
@@ -1361,15 +1347,6 @@ class Playstream2(
                 self.servicetype = "4097"
         currentindex = 0
         streamtypelist = ["4097"]
-        '''
-        if Utils.isStreamlinkAvailable():
-            streamtypelist.append("5002")  # ref = '5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/' + url
-            streaml = True
-        if os.path.exists("/usr/bin/gstplayer"):
-            streamtypelist.append("5001")
-        if os.path.exists("/usr/bin/exteplayer3"):
-            streamtypelist.append("5002")
-        '''
         if os.path.exists("/usr/bin/apt-get"):
             streamtypelist.append("8193")
         for index, item in enumerate(streamtypelist, start=0):
@@ -1420,7 +1397,6 @@ def main(session, **kwargs):
 
 def Plugins(**kwargs):
     ico_path = 'plugin.png'
-    # extDescriptor = PluginDescriptor(name=name_plugin, description=desc_plugin, where=[PluginDescriptor.WHERE_EXTENSIONSMENU], icon=ico_path, fnc=main)
     result = [
         PluginDescriptor(
             name=name_plugin,
@@ -1428,6 +1404,4 @@ def Plugins(**kwargs):
             where=PluginDescriptor.WHERE_PLUGINMENU,
             icon=ico_path,
             fnc=main)]
-    # result.append(extDescriptor)
     return result
-    # PluginDescriptor(name=name_plugin, description=desc_plugin, where=[PluginDescriptor.WHERE_SESSIONSTART], fnc=autostart),

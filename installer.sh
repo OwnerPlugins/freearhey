@@ -1,7 +1,7 @@
 #!/bin/bash
 
-version='3.1'
-changelog='\nAdd Channel Change in to Player\n'
+version='3.2'
+changelog='\nSome Fix\n'
 
 TMPPATH=/tmp/freearhey-install
 FILEPATH=/tmp/freearhey-main.tar.gz

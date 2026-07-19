@@ -5,7 +5,7 @@ from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 import gettext
 import os
-__version__ = "3.1"
+__version__ = "3.2"
 PluginLanguageDomain = 'freearhey'
 PluginLanguagePath = 'Extensions/freearhey/locale'
 
@@ -22,11 +22,8 @@ def paypal():
 
 
 def localeInit():
-    if isDreamOS:  # check if opendreambox image
-        # getLanguage returns e.g. "fi_FI" for "language_country"
+    if isDreamOS:
         lang = language.getLanguage()[:2]
-        # Enigma doesn't set this (or LC_ALL, LC_MESSAGES, LANG). gettext needs
-        # it!
         os.environ["LANGUAGE"] = lang
     gettext.bindtextdomain(
         PluginLanguageDomain,
@@ -35,7 +32,7 @@ def localeInit():
             PluginLanguagePath))
 
 
-if isDreamOS:  # check if DreamOS image
+if isDreamOS:
     def _(txt): return gettext.dgettext(
         PluginLanguageDomain, txt) if txt else ""
 else:
@@ -43,8 +40,6 @@ else:
         if gettext.dgettext(PluginLanguageDomain, txt):
             return gettext.dgettext(PluginLanguageDomain, txt)
         else:
-            print(("[%s] fallback to default translation for %s" %
-                  (PluginLanguageDomain, txt)))
             return gettext.gettext(txt)
 localeInit()
 language.addCallback(localeInit)

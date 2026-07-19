@@ -1,6 +1,6 @@
 <h1 align="center">📺 freearhey</h1>
 
-[![Version](https://img.shields.io/badge/Version.-3.1-blue.svg)](https://github.com/Belfagor2005/freearhey)
+[![Version](https://img.shields.io/badge/Version.-3.2-blue.svg)](https://github.com/Belfagor2005/freearhey)
 [![Enigma2](https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg)](https://www.enigma2.net)
 [![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
